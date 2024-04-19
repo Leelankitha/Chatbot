@@ -1,1 +1,1 @@
-# Chatbot
+An AI-powered mental health chatbot utilizes machine learning to provide personalized support, resources, and coping strategies for individuals facing mental health challenges. Accessible 24/7, it offers anonymity and tailored assistance, complementing traditional therapy services.
